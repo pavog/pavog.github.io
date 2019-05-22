@@ -1,0 +1,68 @@
+==================================================================
+https://keybase.io/pavog
+--------------------------------------------------------------------
+
+I hereby claim:
+
+  * I am an admin of https://www.paulvogel.me
+  * I am pavog (https://keybase.io/pavog) on keybase.
+  * I have a public key with fingerprint 2851 65C9 36BB 1505 7DB8  711D C3EE 7137 1FA0 7A5B
+
+To do so, I am signing this object:
+
+{
+  "body": {
+    "key": {
+      "eldest_kid": "010179527d796778f808014c3c23b45247c4cf89d3e0205d5599a7c08061b312e2460a",
+      "fingerprint": "285165c936bb15057db8711dc3ee71371fa07a5b",
+      "host": "keybase.io",
+      "key_id": "c3ee71371fa07a5b",
+      "kid": "010179527d796778f808014c3c23b45247c4cf89d3e0205d5599a7c08061b312e2460a",
+      "uid": "e4301e5e2b96dc2a28117bbe59e32119",
+      "username": "pavog"
+    },
+    "service": {
+      "hostname": "www.paulvogel.me",
+      "protocol": "https:"
+    },
+    "type": "web_service_binding",
+    "version": 1
+  },
+  "ctime": 1558531914,
+  "expire_in": 157680000,
+  "prev": "44e1824ceab167503fa06b6e75e8c108cb4dd1f952da15d978f5c65ac0ab842b",
+  "seqno": 22,
+  "tag": "signature"
+}
+
+which yields the signature:
+
+-----BEGIN PGP MESSAGE-----
+Version: Keybase OpenPGP v2.1.0
+Comment: https://keybase.io/crypto
+
+yMIuAnicrZJbSBRRGMd3LQ1XuxFRJhSNL0KyzZmZM2dmkYyMIsmuBBraNufM2XXY
+bWbd2V0NUckipaAXBW9BD/VgN7tgWRahJooZkUVFFwqphMIoCk0jojNSbz12Xg7n
++37///nOnzMwf47L4+6573lVOHQRu0f6WuOukvfbC6o4bOkHOV8VF6KzGw3r1I75
+Q4bO+Tge8ACpUEA6UmWElIDCKzyQiEgEEUtQkBCRSEBRdZHyAg91CFVVQ4RBMsAi
+EKggybzG5XABwwzSaCRqmDFmKygQyJCooowxgDxEOlYQADoRKUVARCCg8UiDmAnL
+LNtRsOGwZlOvYbEaO/hnx/sH/5/njs/aUUnkAYVUwKqsE0ETFAAQxhSqVBQAUB3Q
+plFTO0AZHdESVpCrzuFYKWEQ6qTqPONPu6KiwhvR4mEG0bCXlXK4SNSKWcQKs25Z
+LBaxfY46djAyi1Ps/2Pkx4apsyCZIkGjtmGZnA8wksQMxxlAqEARqEDK4WhlxIhS
+v+EQEMkKz5ZzD00wS0miQBEkQjUMZAR5kcUnY5kiSBUCeIVgSddBgOWnawDqKssP
+EhlqhNewIglOzDYtNy3OJwhsTi3IPG0jaGqxeJRy1f29JXNdbo8rJTnJ+WEuT+qi
+v/+uMXver9xQUcbiysy3OwrXf1v2fDjFXHXG21Gc+PmhaqL7WMfqOt/nFaeKd72Z
+ujKa9QS++lhqtRzNz7fTG7bte5r+6Oz0iZ3nG/KeZvZkjO/u3DCwoA9cOJc7GVwR
+LjzZcDfJdXqmpOPetdWfhm7sV2+dqPX2Piw4Mngo7wXZ1Pbu6qbUEdcYKh9pT05H
+RWNN4GXSM9HwN1dntzUd/9q7sTFa736ctWXVRGImq71m0l3adn1p6Efrx9r6tMqb
+r0u7Ni/xrvneNbgjNa2+qqalrGvn6K+F2Sq8fCdj/Hbv2gc9yaeHx+OdZv/e7yub
+L42Mda9bttUI0Knkmj11nd3d04Vzv1S2HLaX/wa7akCb
+=uCvt
+-----END PGP MESSAGE-----
+
+And finally, I am proving ownership of this host by posting or
+appending to this document.
+
+View my publicly-auditable identity here: https://keybase.io/pavog
+
+==================================================================
